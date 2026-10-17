@@ -1,1 +1,1 @@
-Git és un sistema de control de version ideat per Linus Trovalds
+Git es va crear l'any 2005.
